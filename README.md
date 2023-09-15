@@ -1,11 +1,11 @@
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
-Progra exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
-<p align="center">|
-  <a href="#-tecnologias">Tecnologias</a> | 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a> |
   <a href="#-projeto">Projeto</a> | 
   <a href="#-layout">Layout</a> | 
   <a href="#memo-licença">Licença</a> | 
@@ -21,7 +21,7 @@ Progra exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## 📖 Tecnologias
 
 Esse projeto fo desenvolvido com  as seguintes tecnologias:
 
@@ -30,11 +30,11 @@ Esse projeto fo desenvolvido com  as seguintes tecnologias:
 - GIT e GITHUB
 - FIGMA
 
-## :clipboard: Projeto
+## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas onLine.
 
-## :: Layout
+## 📐 Layout
 
 ## :memo: Licença
 
